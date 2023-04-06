@@ -1,0 +1,59 @@
+body{
+  justify-content: center;
+
+
+
+
+}
+.app-container{
+  height:400px;
+  width: 300px;
+  background: rgb(11, 23, 63);
+
+
+}
+.display-container{
+  display: flex;
+  height: 300px;
+  width: 250px;
+  border-color: black;
+  border-radius: 80%;
+
+  justify-content: center;
+  align-items: center;
+
+
+
+}
+.temp-display{
+  display: flex;
+  margin-left: 25%;
+  border-radius: 50%;
+  height: 250px;
+  width: 300px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  font-size: 60px;
+  border: 3px whitesmoke;
+
+}
+.btn-container{
+  display: flex;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+  font-size: 32px;
+  colour: whight;
+  background: rgb(43, 122, 118);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+}
+.blue{
+  background-color: chartreuse;
+}
+.orange{
+  background-color: orangered;
+}
